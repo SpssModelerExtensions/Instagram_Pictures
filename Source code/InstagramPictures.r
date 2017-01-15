@@ -1,7 +1,7 @@
 ###########################################################################
 # 'InstagramPictures' v1.0 node for IBM SPSS Modeler 		  			  #
 # Artur Kucia IBM 2017										  		      #
-# Description: Download photos from Instagram account via Instagram API  #
+# Description: Download photos from Instagram account via Instagram API   #
 ###########################################################################
 
 packages <- function(x){

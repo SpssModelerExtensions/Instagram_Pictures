@@ -1,6 +1,6 @@
 # Download pictures from Instagram account
 
-This extension enables you to download picture ids and urls from a specified Instgram user using Instagram API Platform
+This extension enables you to download picture ids and urls from a specified Instagram user using Instagram API Platform
 
 <p align="center">
   <img src="insta2.png"/ width=300px>
