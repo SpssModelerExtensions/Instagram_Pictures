@@ -3,7 +3,7 @@
 This extension enables you to download picture ids and urls from a specified Instagram user using Instagram API Platform
 
 <p align="center">
-  <img src="insta2.png"/ width=300px>
+  <img src="default.png"/ width=320px>
 </p>
 
 # Before you start
